@@ -51,6 +51,8 @@ gulp.task('paquete-ocean', function(){
 gulp.task('push', function(){
 
     if (!fe.existsSync(path.join(__dirname, '.git'))){
+      fs.copy(path.join(__dirname,'../template','app.js'), path.join(basePath, dir , 'app.js'));
+      fs.copy(path.join(__dirname,'../template','package.json'), path.join(basePath, dir , 'package.json'));
       git()
         .init()
         .add('./*')

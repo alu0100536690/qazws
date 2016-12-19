@@ -1,0 +1,95 @@
+Welcome to Ubuntu 16.04.1 LTS (GNU/Linux 4.4.0-53-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+  Get cloud support with Ubuntu Advantage Cloud Guest:
+    http://www.ubuntu.com/business/services/cloud
+
+6 packages can be updated.
+0 updates are security updates.
+
+
+Last login: Mon Dec 19 04:54:26 2016 from 83.38.44.35
+root@Ubuntu:~# cd /home/src/sytw/
+root@Ubuntu:/home/src/sytw# npm install
+[?25l[[90m..................[0m] / normalizeTree: [7msill[0m [35minstall[0m loadCurrentTree[K[[90m..................[0m] / normalizeTree: [7msill[0m [35minstall[0m loadCurrentTree[K[[7m    [27m[90m..............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] - fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] - fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] | fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] | fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] | fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] - fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] - fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] - fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] | fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] | fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] \ fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] \ fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] - fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] | fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] | fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] - fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] - fetchMetadata: [34;40mverb[0m [35mafterAdd[0m /root/.npm/negotiator/0.6.1[K[[7m    [27m[90m..............[0m] \ fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] - fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] | fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] / fetchMetadata: [34;40mverb[0m [35mafterAdd[0m /root/.npm/setprototypeof/1[K[[7m     [27m[90m.............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m     [27m[90m.............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m     [27m[90m.............[0m] \ fetchMetadata: [34;40mverb[0m [35mafterAdd[0m /root/.npm/process/0.11.9/p[K[[7m     [27m[90m.............[0m] | fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m     [27m[90m.............[0m] | fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m     [27m[90m.............[0m] | fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m     [27m[90m.............[0m] \ fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m     [27m[90m.............[0m] / fetchMetadata: [34;40mverb[0m [35mafterAdd[0m /root/.npm/once/1.3.3/packa[K[[7m     [27m[90m.............[0m] \ fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m     [27m[90m.............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m     [27m[90m.............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m     [27m[90m.............[0m] \ fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m      [27m[90m............[0m] | fetchMetadata: [34;40mverb[0m [35mcache add[0m spec readable-stream@~1.0.[K[[7m      [27m[90m............[0m] \ fetchMetadata: [34;40mverb[0m [35mcache add[0m spec readable-stream@~1.0.[K[[7m      [27m[90m............[0m] / fetchMetadata: [34;40mverb[0m [35mafterAdd[0m /root/.npm/ssh2-streams/0.0[K[[7m      [27m[90m............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m      [27m[90m............[0m] | fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m          [27m[90m........[0m] \ diffTrees: [7msill[0m [35minstall[0m generateActionsToTake[K[[7m              [27m[90m....[0m] \ fetch: [7msill[0m [35mdoParallel[0m fetch 71[K[[7m              [27m[90m....[0m] | extract:ssh-exec: [7msill[0m [35mdoParallel[0m extract 71[K[[7m              [27m[90m....[0m] - extract:ssh-exec: [7msill[0m [35mdoParallel[0m extract 71[K[[7m              [27m[90m....[0m] / extract:ssh-exec: [7msill[0m [35mdoParallel[0m extract 71[K[[7m              [27m[90m....[0m] | extract:ssh-exec: [7msill[0m [35mdoParallel[0m extract 71[K[[7m              [27m[90m....[0m] | extract:ssh-exec: [7msill[0m [35mdoParallel[0m extract 71[K[[7m              [27m[90m....[0m] \ extract:ssh-exec: [7msill[0m [35mdoParallel[0m extract 71[K[[7m              [27m[90m....[0m] - extract:ssh-exec: [7msill[0m [35mdoParallel[0m extract 71[K[[7m              [27m[90m....[0m] \ extract:ssh-exec: [7msill[0m [35mdoParallel[0m extract 71[K[[7m              [27m[90m....[0m] | extract:ssh-exec: [7msill[0m [35mdoParallel[0m extract 71[K[[7m              [27m[90m....[0m] - extract:ssh-exec: [7msill[0m [35mdoParallel[0m extract 71[K[[7m              [27m[90m....[0m] / extract:https: [7msill[0m [35mgunzTarPerm[0m extractEntry History.md[K[[7m              [27m[90m....[0m] \ extract:https: [7msill[0m [35mgunzTarPerm[0m extractEntry History.md[K[[7m              [27m[90m....[0m] \ extract:fs: [34;40mverb[0m [35mgentlyRm[0m don't care about contents; nuk[K[[7m              [27m[90m....[0m] | extract:fs: [34;40mverb[0m [35mgentlyRm[0m don't care about contents; nuk[K[[7m              [27m[90m....[0m] \ extract:fs: [34;40mverb[0m [35mgentlyRm[0m don't care about contents; nuk[K[[7m              [27m[90m....[0m] / extract:fs: [34;40mverb[0m [35mgentlyRm[0m don't care about contents; nuk[K[[7m              [27m[90m....[0m] | extract:once: [7msill[0m [35mgunzTarPerm[0m extractEntry test/node/in[K[[7m              [27m[90m....[0m] | extract:once: [7msill[0m [35mgunzTarPerm[0m extractEntry test/node/in[K[[7m               [27m[90m...[0m] - extract:ssh-exec: [34;40mverb[0m [35mgentlyRm[0m don't care about content[K[[7m               [27m[90m...[0m] / extract:util-deprecate: [34;40mverb[0m [35mgentlyRm[0m don't care about c[K[[7m                [27m[90m..[0m] / extract:duplexify: [7msill[0m [35mgunzTarPerm[0m modified mode [ 'uti[K[[7m                [27m[90m..[0m] \ extract:debug: [34;40mverb[0m [35mgentlyRm[0m don't care about contents;[K[[7m                [27m[90m..[0m] \ extract:qs: [34;40mverb[0m [35mgentlyRm[0m don't care about contents; nuk[K[[7m                [27m[90m..[0m] | preinstall:ssh-exec: [7msill[0m [35mdoParallel[0m preinstall 71[K[[7m                [27m[90m..[0m] \ preinstall:ssh-exec: [7msill[0m [35mdoParallel[0m preinstall 71[K[[7m                 [27m[90m.[0m] | finalize:ssh2-streams: [7msill[0m [35mfinalize[0m /home/src/sytw/node[K[[7m                 [27m[90m.[0m] | build:ee-first: [34;40mverb[0m [35mlinkMans[0m ee-first@1.1.1[K[[7m                 [27m[90m.[0m] - build:on-finished: [34;40mverb[0m [35mlinkMans[0m on-finished@2.3.0[K[[7m                 [27m[90m.[0m] / build:wrappy: [34;40mverb[0m [35mlinkMans[0m wrappy@1.0.2[K[[7m                 [27m[90m.[0m] | install:destroy: [7msill[0m [35mlifecycle[0m destroy@1.0.4~install: n[K[[7m                 [27m[90m.[0m] - install:serve-static: [7msill[0m [35mlifecycle[0m serve-static@1.11.1[K[[7m                 [27m[90m.[0m] \ postinstall:ssh-exec: [7msill[0m [35mdoSerial[0m postinstall 71[K[[7m                 [27m[90m.[0m] - postinstall:ms: [7msill[0m [35mlifecycle[0m ms@0.7.1~postinstall: no[K[[7m                 [27m[90m.[0m] / postinstall:utils-merge: [7msill[0m [35mlifecycle[0m utils-merge@1.0.[K[K[?25hDespliegue_Digital_Ocean@1.0.0 /home/src/sytw
+├─┬ [40m[33mexpress@4.14.0[39m[49m 
+│ ├─┬ [40m[33maccepts@1.3.3[39m[49m 
+│ │ ├─┬ [40m[33mmime-types@2.1.13[39m[49m 
+│ │ │ └── [40m[33mmime-db@1.25.0[39m[49m 
+│ │ └── [40m[33mnegotiator@0.6.1[39m[49m 
+│ ├── [40m[33marray-flatten@1.1.1[39m[49m 
+│ ├── [40m[33mcontent-disposition@0.5.1[39m[49m 
+│ ├── [40m[33mcontent-type@1.0.2[39m[49m 
+│ ├── [40m[33mcookie@0.3.1[39m[49m 
+│ ├── [40m[33mcookie-signature@1.0.6[39m[49m 
+│ ├─┬ [40m[33mdebug@2.2.0[39m[49m 
+│ │ └── [40m[33mms@0.7.1[39m[49m 
+│ ├── [40m[33mdepd@1.1.0[39m[49m 
+│ ├── [40m[33mencodeurl@1.0.1[39m[49m 
+│ ├── [40m[33mescape-html@1.0.3[39m[49m 
+│ ├── [40m[33metag@1.7.0[39m[49m 
+│ ├─┬ [40m[33mfinalhandler@0.5.0[39m[49m 
+│ │ ├── [40m[33mstatuses@1.3.1[39m[49m 
+│ │ └── [40m[33munpipe@1.0.0[39m[49m 
+│ ├── [40m[33mfresh@0.3.0[39m[49m 
+│ ├── [40m[33mmerge-descriptors@1.0.1[39m[49m 
+│ ├── [40m[33mmethods@1.1.2[39m[49m 
+│ ├─┬ [40m[33mon-finished@2.3.0[39m[49m 
+│ │ └── [40m[33mee-first@1.1.1[39m[49m 
+│ ├── [40m[33mparseurl@1.3.1[39m[49m 
+│ ├── [40m[33mpath-to-regexp@0.1.7[39m[49m 
+│ ├─┬ [40m[33mproxy-addr@1.1.2[39m[49m 
+│ │ ├── [40m[33mforwarded@0.1.0[39m[49m 
+│ │ └── [40m[33mipaddr.js@1.1.1[39m[49m 
+│ ├── [40m[33mqs@6.2.0[39m[49m 
+│ ├── [40m[33mrange-parser@1.2.0[39m[49m 
+│ ├─┬ [40m[33msend@0.14.1[39m[49m 
+│ │ ├── [40m[33mdestroy@1.0.4[39m[49m 
+│ │ ├─┬ [40m[33mhttp-errors@1.5.1[39m[49m 
+│ │ │ └── [40m[33msetprototypeof@1.0.2[39m[49m 
+│ │ └── [40m[33mmime@1.3.4[39m[49m 
+│ ├── [40m[33mserve-static@1.11.1[39m[49m 
+│ ├─┬ [40m[33mtype-is@1.6.14[39m[49m 
+│ │ └── [40m[33mmedia-typer@0.3.0[39m[49m 
+│ ├── [40m[33mutils-merge@1.0.0[39m[49m 
+│ └── [40m[33mvary@1.1.0[39m[49m 
+├── [40m[33mfs@0.0.1-security[39m[49m 
+├── [40m[33mhttp@0.0.0[39m[49m 
+├── [40m[33mhttps@1.0.0[39m[49m 
+├─┬ [40m[33mpath@0.12.7[39m[49m 
+│ ├── [40m[33mprocess@0.11.9[39m[49m 
+│ └─┬ [40m[33mutil@0.10.3[39m[49m 
+│   └── [40m[33minherits@2.0.1[39m[49m 
+└─┬ [40m[33mssh-exec@2.0.0[39m[49m 
+  ├─┬ [40m[33mduplexify@3.5.0[39m[49m 
+  │ ├─┬ [40m[33mend-of-stream@1.0.0[39m[49m 
+  │ │ └── [40m[33monce@1.3.3[39m[49m 
+  │ ├── [40m[33minherits@2.0.3[39m[49m 
+  │ ├─┬ [40m[33mreadable-stream@2.2.2[39m[49m 
+  │ │ ├── [40m[33mbuffer-shims@1.0.0[39m[49m 
+  │ │ ├── [40m[33mcore-util-is@1.0.2[39m[49m 
+  │ │ ├── [40m[33misarray@1.0.0[39m[49m 
+  │ │ ├── [40m[33mprocess-nextick-args@1.0.7[39m[49m 
+  │ │ ├── [40m[33mstring_decoder@0.10.31[39m[49m 
+  │ │ └── [40m[33mutil-deprecate@1.0.2[39m[49m 
+  │ └── [40m[33mstream-shift@1.0.0[39m[49m 
+  ├─┬ [40m[33monce@1.4.0[39m[49m 
+  │ └── [40m[33mwrappy@1.0.2[39m[49m 
+  └─┬ [40m[33mssh2@0.4.15[39m[49m 
+    ├─┬ [40m[33mreadable-stream@1.0.34[39m[49m 
+    │ └── [40m[33misarray@0.0.1[39m[49m 
+    └─┬ [40m[33mssh2-streams@0.0.23[39m[49m 
+      ├── [40m[33masn1@0.2.3[39m[49m 
+      ├─┬ [40m[33mreadable-stream@1.0.34[39m[49m 
+      │ └── [40m[33misarray@0.0.1[39m[49m 
+      └── [40m[33mstreamsearch@0.1.2[39m[49m 
+
+[37;40mnpm[0m [0m[30;43mWARN[0m[35m[0m Despliegue_Digital_Ocean@1.0.0 No description
+[0m[37;40mnpm[0m [0m[30;43mWARN[0m[35m[0m Despliegue_Digital_Ocean@1.0.0 No repository field.
+[0mroot@Ubuntu:/home/src/sytw# node app.js &
+[1] 28215
+root@Ubuntu:/home/src/sytw# exit
+logout

@@ -10,11 +10,11 @@ function checkDirectorySync(directory) {
   try {
     fs.statSync(directory); //Busca directorio tls
 
-    var privateKey  = fs.readFileSync('./tls/key.pem', 'utf8');
-    var certificate = fs.readFileSync('./tls/cert.pem', 'utf8');
+    var privateKey  = fs.readFileSync('../tls/key.pem', 'utf8');
+    var certificate = fs.readFileSync('../tls/cert.pem', 'utf8');
     var credentials = {key: privateKey, cert: certificate};
 
-    app.use(express.static(path.join(__dirname,'gh-pages')));
+    app.use(express.static(path.join(__dirname,'/')));
     app.get('/', function(request, response) {
       response.send('index');
     });
@@ -24,7 +24,7 @@ function checkDirectorySync(directory) {
     httpsServer.listen(443);
   } catch(e) {
 
-    app.use(express.static(path.join(__dirname,'gh-pages')));
+    app.use(express.static(path.join(__dirname,'/')));
     app.get('/', function(request, response) {
       response.send('index');
     });
@@ -34,5 +34,5 @@ function checkDirectorySync(directory) {
   }
 
 }
-checkDirectorySync("./tls");
+checkDirectorySync("../tls");
 
